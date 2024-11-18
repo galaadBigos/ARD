@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bPC4CgvSmUAkMURPwCSVDcE68d1yfbyZ2MiwgxYaVe0=",
+  "Source": "RealDeal.Gateway",
+  "BasePath": "_content/RealDeal.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

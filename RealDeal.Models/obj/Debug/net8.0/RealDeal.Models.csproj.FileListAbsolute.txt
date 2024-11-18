@@ -1,0 +1,12 @@
+D:\ARD\RealDeal.Models\bin\Debug\net8.0\RealDeal.Models.deps.json
+D:\ARD\RealDeal.Models\bin\Debug\net8.0\RealDeal.Models.dll
+D:\ARD\RealDeal.Models\bin\Debug\net8.0\RealDeal.Models.pdb
+D:\ARD\RealDeal.Models\obj\Debug\net8.0\RealDeal.Models.csproj.AssemblyReference.cache
+D:\ARD\RealDeal.Models\obj\Debug\net8.0\RealDeal.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARD\RealDeal.Models\obj\Debug\net8.0\RealDeal.Models.AssemblyInfoInputs.cache
+D:\ARD\RealDeal.Models\obj\Debug\net8.0\RealDeal.Models.AssemblyInfo.cs
+D:\ARD\RealDeal.Models\obj\Debug\net8.0\RealDeal.Models.csproj.CoreCompileInputs.cache
+D:\ARD\RealDeal.Models\obj\Debug\net8.0\RealDeal.Models.dll
+D:\ARD\RealDeal.Models\obj\Debug\net8.0\refint\RealDeal.Models.dll
+D:\ARD\RealDeal.Models\obj\Debug\net8.0\RealDeal.Models.pdb
+D:\ARD\RealDeal.Models\obj\Debug\net8.0\ref\RealDeal.Models.dll

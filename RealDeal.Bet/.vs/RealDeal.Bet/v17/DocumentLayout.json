@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ARD\\RealDeal.Bet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA01DCF-8835-4AC5-AA7D-6140CD0B1704}|RealDeal.Bet.csproj|d:\\ard\\realdeal.bet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA01DCF-8835-4AC5-AA7D-6140CD0B1704}|RealDeal.Bet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA01DCF-8835-4AC5-AA7D-6140CD0B1704}|RealDeal.Bet.csproj|d:\\ard\\realdeal.bet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFA01DCF-8835-4AC5-AA7D-6140CD0B1704}|RealDeal.Bet.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA01DCF-8835-4AC5-AA7D-6140CD0B1704}|RealDeal.Bet.csproj|d:\\ard\\realdeal.bet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFA01DCF-8835-4AC5-AA7D-6140CD0B1704}|RealDeal.Bet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA01DCF-8835-4AC5-AA7D-6140CD0B1704}|RealDeal.Bet.csproj|d:\\ard\\realdeal.bet\\realdealdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA01DCF-8835-4AC5-AA7D-6140CD0B1704}|RealDeal.Bet.csproj|solutionrelative:realdealdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA01DCF-8835-4AC5-AA7D-6140CD0B1704}|RealDeal.Bet.csproj|d:\\ard\\realdeal.bet\\realdeal.bet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFA01DCF-8835-4AC5-AA7D-6140CD0B1704}|RealDeal.Bet.csproj|solutionrelative:realdeal.bet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA01DCF-8835-4AC5-AA7D-6140CD0B1704}|RealDeal.Bet.csproj|d:\\ard\\realdeal.bet\\models\\classes\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA01DCF-8835-4AC5-AA7D-6140CD0B1704}|RealDeal.Bet.csproj|solutionrelative:models\\classes\\bet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RealDealDbContext.cs",
+              "DocumentMoniker": "D:\\ARD\\RealDeal.Bet\\RealDealDbContext.cs",
+              "RelativeDocumentMoniker": "RealDealDbContext.cs",
+              "ToolTip": "D:\\ARD\\RealDeal.Bet\\RealDealDbContext.cs",
+              "RelativeToolTip": "RealDealDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T21:15:21.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bet.cs",
+              "DocumentMoniker": "D:\\ARD\\RealDeal.Bet\\Models\\Classes\\Bet.cs",
+              "RelativeDocumentMoniker": "Models\\Classes\\Bet.cs",
+              "ToolTip": "D:\\ARD\\RealDeal.Bet\\Models\\Classes\\Bet.cs",
+              "RelativeToolTip": "Models\\Classes\\Bet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:29:09.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RealDeal.Bet",
+              "DocumentMoniker": "D:\\ARD\\RealDeal.Bet\\RealDeal.Bet.csproj",
+              "RelativeDocumentMoniker": "RealDeal.Bet.csproj",
+              "ToolTip": "D:\\ARD\\RealDeal.Bet\\RealDeal.Bet.csproj",
+              "RelativeToolTip": "RealDeal.Bet.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T15:28:42.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ARD\\RealDeal.Bet\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\ARD\\RealDeal.Bet\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T15:26:02.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ARD\\RealDeal.Bet\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ARD\\RealDeal.Bet\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T15:26:00.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ARD\\RealDeal.Bet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ARD\\RealDeal.Bet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:21:42.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

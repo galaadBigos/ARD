@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RealDeal.Bet.props" />
+</Project>
